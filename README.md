@@ -6,7 +6,7 @@ I'm a developer passionate about building modern web experiences.
 
 ## 🚀 Current Projects
 
-### 🦁 [Alpha Kappa Sigma Website](https://efsmert.github.io)
+### 🦁 [Alpha Kappa Sigma Website](https://aks-shad.vercel.app)
 
 The official website for **Alpha Kappa Sigma (ΑΚΣ)** fraternity at Northeastern University.
 

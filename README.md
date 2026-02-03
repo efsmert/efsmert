@@ -24,7 +24,7 @@ The official website for **Alpha Kappa Sigma (ΑΚΣ)** fraternity at Northeaste
 - 💚 Philanthropy and community service showcase
 - 🚀 Deployed via GitHub Actions to GitHub Pages
 
-**Check it out:** [efsmert.github.io](https://efsmert.github.io)
+**Check it out:** [aks-shad.vercel.app](https://aks-shad.vercel.app)
 
 ---
 

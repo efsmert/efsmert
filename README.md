@@ -37,7 +37,11 @@ The official website for **Alpha Kappa Sigma (ΑΚΣ)** fraternity at Northeaste
 
 ## Let's Connect
 
-Feel free to reach out or check out my work!
+<div align="center">
+  <a href="https://linkedin.com/samiareski">
+    <img src="https://img.shields.io/badge/LinkedIn-samiareski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
 

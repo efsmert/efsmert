@@ -30,7 +30,7 @@ The official website for **Alpha Kappa Sigma (ΑΚΣ)** fraternity at Northeaste
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efsmert&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=efsmert&theme=tokyonight&hide_border=true" />
 </div>
 
 ---

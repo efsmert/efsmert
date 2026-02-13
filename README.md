@@ -1,12 +1,12 @@
-# Hey there! 👋
+# Hello
 
-I'm a developer passionate about building modern web experiences.
+I lov
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
-### 🦁 [Alpha Kappa Sigma Website](https://aks-shad.vercel.app)
+### [Alpha Kappa Sigma Website](https://aks-shad.vercel.app)
 
 The official website for **Alpha Kappa Sigma (ΑΚΣ)** fraternity at Northeastern University.
 
@@ -17,18 +17,11 @@ The official website for **Alpha Kappa Sigma (ΑΚΣ)** fraternity at Northeaste
   <img src="https://img.shields.io/badge/Framer-Motion-FF0055?style=flat-square&logo=framer" alt="Framer Motion" />
 </div>
 
-**Features:**
-- ✨ Modern, responsive design with smooth animations
-- 👥 Interactive brothers directory with search & filtering
-- 🎯 Rush information for prospective members
-- 💚 Philanthropy and community service showcase
-- 🚀 Deployed via GitHub Actions to GitHub Pages
-
 **Check it out:** [aks-shad.vercel.app](https://aks-shad.vercel.app)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -40,7 +33,7 @@ The official website for **Alpha Kappa Sigma (ΑΚΣ)** fraternity at Northeaste
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=efsmert&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -48,7 +41,7 @@ The official website for **Alpha Kappa Sigma (ΑΚΣ)** fraternity at Northeaste
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 Feel free to reach out or check out my work!
 

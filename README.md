@@ -1,6 +1,6 @@
-# Hello
+# hello there
 
-I lov
+I try to create cool stuff
 
 ---
 
